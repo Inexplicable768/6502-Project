@@ -1,3 +1,7 @@
+; NOTICE: this only works for the LCD without my vga card
+; I still included this here as well
+
+
 ; LCD Control Pins
 PORTA     = $00
 PORTB     = $01       
